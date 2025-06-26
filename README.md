@@ -26,7 +26,7 @@ All charts are **interactive**, allowing users to drill down, filter, and dynami
 
 ## 🖼️ Dashboard Preview
 
-![Sales Dashboard Preview](dashboard.png)
+![Sales Dashboard Preview](Dashboard.png)
 
 ## 📄 Analysis Document
 
