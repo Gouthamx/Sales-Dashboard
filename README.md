@@ -24,6 +24,10 @@ The dashboard was created using **Tableau** and highlights the following:
 
 All charts are **interactive**, allowing users to drill down, filter, and dynamically explore the data.
 
+## 🖼️ Dashboard Preview
+
+![Sales Dashboard Preview](dashboard.png)
+
 ## 📄 Analysis Document
 
 The `Analysis.docx` includes detailed answers to several data-driven business questions, such as:
