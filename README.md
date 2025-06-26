@@ -40,3 +40,33 @@ Each answer includes supporting charts or metrics derived from the Tableau dashb
 - **Tableau** for data visualization and dashboard design
 - **Excel** for dataset cleaning and preprocessing
 - **Word** for presenting insights and answering questions
+
+## 📈 Key Learnings
+
+Through this project, I gained hands-on experience in the end-to-end process of data analysis and dashboard creation using Tableau. 
+Key takeaways include:
+
+### 🔹 Dashboard Design & Layout
+- Learned to structure dashboards for maximum clarity and usability
+- Applied layout containers (horizontal/vertical) to align and group visual components effectively
+- Incorporated KPI cards and filter sidebars to enhance interactivity and provide at-a-glance metrics
+
+### 🔹 Data Analysis & Insight Generation
+- Explored trends in sales and profitability across different dimensions like Category, State, City, and Payment Mode
+- Identified underperforming regions and high-performing customer segments through comparative analysis
+- Evaluated the impact of seasonality and customer behavior patterns using time series charts
+
+### 🔹 Tableau Techniques
+- Created calculated fields for metrics like:
+  - **Profit-to-Sales Ratio**
+  - **Average Order Value**
+- Implemented filters and actions to allow multi-level interactivity across all charts
+- Utilized scatter plots, bar charts, pie charts, and line graphs effectively
+
+### 🔹 Data Cleaning & Preparation (Pre-Tableau)
+- Cleaned raw dataset using Excel by:
+  - Removing inconsistencies
+  - Ensuring correct data types
+  - Creating derived columns where necessary
+
+This project helped bridge the gap between raw data and decision-making, while reinforcing strong analytical thinking, visualization best practices, and storytelling with data.
